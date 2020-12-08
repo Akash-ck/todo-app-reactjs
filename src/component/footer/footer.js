@@ -5,10 +5,10 @@ export default class Footer extends Component {
         return (
             <div className="footer">
                 <h3>
-                    Developed By <span>Muhammad Semeer</span>
+                    Developed By <span>AKASH CK</span>
                     <br/>
                     <a
-                        href="https://github.com/muhammadsemeer/React-Todo-App"
+                        href=""
                         target="_blank"
                         rel="noopener noreferrer"
                     >
@@ -16,7 +16,7 @@ export default class Footer extends Component {
                     </a>
                     &nbsp;
                     <a
-                        href="https://www.instagram.com/dream_dev_/"
+                        href=""
                         target="_blank"
                         rel="noopener noreferrer"
                     >
